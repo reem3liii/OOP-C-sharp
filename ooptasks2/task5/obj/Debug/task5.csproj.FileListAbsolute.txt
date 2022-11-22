@@ -1,0 +1,8 @@
+D:\iti\ooptasks2\task5\bin\Debug\task5.exe.config
+D:\iti\ooptasks2\task5\bin\Debug\task5.exe
+D:\iti\ooptasks2\task5\bin\Debug\task5.pdb
+D:\iti\ooptasks2\task5\obj\Debug\task5.csproj.AssemblyReference.cache
+D:\iti\ooptasks2\task5\obj\Debug\task5.csproj.SuggestedBindingRedirects.cache
+D:\iti\ooptasks2\task5\obj\Debug\task5.csproj.CoreCompileInputs.cache
+D:\iti\ooptasks2\task5\obj\Debug\task5.exe
+D:\iti\ooptasks2\task5\obj\Debug\task5.pdb

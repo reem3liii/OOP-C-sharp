@@ -1,0 +1,8 @@
+C:\Users\LOGO\source\repos\ooptasks\task4\bin\Debug\task4.exe.config
+C:\Users\LOGO\source\repos\ooptasks\task4\bin\Debug\task4.exe
+C:\Users\LOGO\source\repos\ooptasks\task4\bin\Debug\task4.pdb
+C:\Users\LOGO\source\repos\ooptasks\task4\obj\Debug\task4.csproj.AssemblyReference.cache
+C:\Users\LOGO\source\repos\ooptasks\task4\obj\Debug\task4.csproj.SuggestedBindingRedirects.cache
+C:\Users\LOGO\source\repos\ooptasks\task4\obj\Debug\task4.csproj.CoreCompileInputs.cache
+C:\Users\LOGO\source\repos\ooptasks\task4\obj\Debug\task4.exe
+C:\Users\LOGO\source\repos\ooptasks\task4\obj\Debug\task4.pdb

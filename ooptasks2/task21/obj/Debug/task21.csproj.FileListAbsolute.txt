@@ -1,0 +1,8 @@
+D:\iti\ooptasks2\task21\bin\Debug\task21.exe.config
+D:\iti\ooptasks2\task21\bin\Debug\task21.exe
+D:\iti\ooptasks2\task21\bin\Debug\task21.pdb
+D:\iti\ooptasks2\task21\obj\Debug\task21.csproj.AssemblyReference.cache
+D:\iti\ooptasks2\task21\obj\Debug\task21.csproj.SuggestedBindingRedirects.cache
+D:\iti\ooptasks2\task21\obj\Debug\task21.csproj.CoreCompileInputs.cache
+D:\iti\ooptasks2\task21\obj\Debug\task21.exe
+D:\iti\ooptasks2\task21\obj\Debug\task21.pdb

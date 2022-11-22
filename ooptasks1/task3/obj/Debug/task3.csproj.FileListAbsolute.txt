@@ -1,0 +1,16 @@
+C:\Users\LOGO\source\repos\ooptasks\task3\bin\Debug\task3.exe.config
+C:\Users\LOGO\source\repos\ooptasks\task3\bin\Debug\task3.exe
+C:\Users\LOGO\source\repos\ooptasks\task3\bin\Debug\task3.pdb
+C:\Users\LOGO\source\repos\ooptasks\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+C:\Users\LOGO\source\repos\ooptasks\task3\obj\Debug\task3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LOGO\source\repos\ooptasks\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+C:\Users\LOGO\source\repos\ooptasks\task3\obj\Debug\task3.exe
+C:\Users\LOGO\source\repos\ooptasks\task3\obj\Debug\task3.pdb
+D:\iti\ooptasks1\task3\bin\Debug\task3.exe.config
+D:\iti\ooptasks1\task3\bin\Debug\task3.exe
+D:\iti\ooptasks1\task3\bin\Debug\task3.pdb
+D:\iti\ooptasks1\task3\obj\Debug\task3.csproj.AssemblyReference.cache
+D:\iti\ooptasks1\task3\obj\Debug\task3.csproj.SuggestedBindingRedirects.cache
+D:\iti\ooptasks1\task3\obj\Debug\task3.csproj.CoreCompileInputs.cache
+D:\iti\ooptasks1\task3\obj\Debug\task3.exe
+D:\iti\ooptasks1\task3\obj\Debug\task3.pdb

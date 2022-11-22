@@ -1,0 +1,8 @@
+D:\iti\ooptasks2\task11\bin\Debug\task11.exe.config
+D:\iti\ooptasks2\task11\bin\Debug\task11.exe
+D:\iti\ooptasks2\task11\bin\Debug\task11.pdb
+D:\iti\ooptasks2\task11\obj\Debug\task11.csproj.AssemblyReference.cache
+D:\iti\ooptasks2\task11\obj\Debug\task11.csproj.SuggestedBindingRedirects.cache
+D:\iti\ooptasks2\task11\obj\Debug\task11.csproj.CoreCompileInputs.cache
+D:\iti\ooptasks2\task11\obj\Debug\task11.exe
+D:\iti\ooptasks2\task11\obj\Debug\task11.pdb
